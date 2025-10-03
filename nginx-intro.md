@@ -1,3 +1,5 @@
+![Nginx Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtry6J_Jp0xzhsr7By5pFzb0DWYDDyeyeITtGA7JPQQnf2a2XWN8Q7biqFdt8a2EEKiN8&usqp=CAU)
+
 # Nginx Test Markdown
 
 This document serves as a comprehensive test of Markdown formatting while providing useful information about **Nginx**, a high-performance web server and reverse proxy.
