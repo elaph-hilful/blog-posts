@@ -1,3 +1,4 @@
+![Nginx Logo](https://kinsta.com/wp-content/uploads/2018/03/what-is-nginx-1024x512.png)
 # Nginx Test Markdown
 
 This document serves as a comprehensive test of Markdown formatting while providing useful information about **Nginx**, a high-performance web server and reverse proxy.
