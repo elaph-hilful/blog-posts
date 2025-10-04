@@ -1,7 +1,7 @@
 ---
 title: "Why Simplicity Wins: Building a Blog That Feels Like Home"
 date: 2024-06-15
-thumbnail: "simplicity-blog-cover.jpeg"
+thumbnail: "/images/simplicity-blog-cover.jpeg"
 draft: false
 ---
 
