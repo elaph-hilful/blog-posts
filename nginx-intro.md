@@ -1,3 +1,9 @@
+---
+title: "Introduction to Nginx"
+date: 2024-06-01
+thumbnail: "[/images/nginx-intro-banner.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtry6J_Jp0xzhsr7By5pFzb0DWYDDyeyeITtGA7JPQQnf2a2XWN8Q7biqFdt8a2EEKiN8&usqp=CAU)"
+description: "Learn the basics of Nginx, a high-performance web server and reverse proxy."
+---
 
 
 # Nginx Test Markdown
