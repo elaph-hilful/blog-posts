@@ -1,11 +1,11 @@
 ---
 title: "Why Simplicity Wins: Building a Blog That Feels Like Home"
 date: 2024-06-15
-thumbnail: "simplicity-blog-cover.jpg"
+thumbnail: "simplicity-blog-cover.jpeg"
 draft: false
 ---
 
-![A cozy desk with a laptop, notebook, and warm lighting — symbolizing thoughtful writing](/images/simplicity-blog-cover.jpg)
+![A cozy desk with a laptop, notebook, and warm lighting — symbolizing thoughtful writing](/images/simplicity-blog-cover.jpeg)
 
 > "Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away."  
 > — Antoine de Saint-Exupéry
